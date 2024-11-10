@@ -21,4 +21,11 @@ Github Page 官方说明 —— [GitHub Pages 文档](https://docs.github.com/zh
 
 # 如何设置 Obsidian 使用 Github
 
+[Obsidian使用Git同步](https://blog.csdn.net/weixin_47711503/article/details/137544921) —— 基于 Github
+
+[用git使obsidian多端笔记互联/同步保存笔记（基于gitee）](https://blog.csdn.net/m0_56544579/article/details/143241452) —— 基于 Gitee
+
+[如何通过GitHub实现Obsidian笔记内容同步](https://zhuanlan.zhihu.com/p/698940284)
+
+[使用git作为Obsidian知识库进行同步](https://www.zhihu.com/question/553934327/answer/3433921968) —— Mac 系统
 
