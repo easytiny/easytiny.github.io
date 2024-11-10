@@ -15,7 +15,7 @@
               "state": {
                 "file": "docs/README.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
               "title": "README"
@@ -185,10 +185,10 @@
   },
   "active": "b2766529d60390da",
   "lastOpenFiles": [
-    "docs/README.md",
     "欢迎.md",
+    "创建链接.md",
+    "docs/README.md",
     "docs",
-    "README.md",
-    "创建链接.md"
+    "README.md"
   ]
 }
