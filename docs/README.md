@@ -29,3 +29,19 @@ Github Page 官方说明 —— [GitHub Pages 文档](https://docs.github.com/zh
 
 [使用git作为Obsidian知识库进行同步](https://www.zhihu.com/question/553934327/answer/3433921968) —— Mac 系统
 
+## Obsidian 使用 Git 的相关插件
+
+### Git 插件
+
+https://github.com/Vinzent03/obsidian-git
+
+obsidian://show-plugin?id=obsidian-git
+
+### Version History Diff 插件
+
+https://github.com/kometenstaub/obsidian-version-history-diff
+
+obsidian://show-plugin?id=obsidian-version-history-diff
+
+
+
