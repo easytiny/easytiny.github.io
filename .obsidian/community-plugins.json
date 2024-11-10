@@ -1,5 +1,8 @@
 [
   "obsidian-git",
   "heatmap-calendar",
-  "obsidian-version-history-diff"
+  "obsidian-version-history-diff",
+  "obsidian-style-settings",
+  "tag-wrangler",
+  "calendar"
 ]
