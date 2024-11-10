@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "docs/README.md",
                 "mode": "source",
                 "source": false
               },
@@ -203,10 +203,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c7b3634ab57a48e9",
+  "active": "b2766529d60390da",
   "lastOpenFiles": [
-    "创建链接.md",
     "欢迎.md",
-    "README.md"
+    "docs/README.md",
+    "docs",
+    "README.md",
+    "创建链接.md"
   ]
 }
