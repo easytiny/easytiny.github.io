@@ -43,5 +43,3 @@ https://github.com/kometenstaub/obsidian-version-history-diff
 
 obsidian://show-plugin?id=obsidian-version-history-diff
 
-
-
