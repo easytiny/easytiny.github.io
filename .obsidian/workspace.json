@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/README.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
@@ -185,10 +185,10 @@
   },
   "active": "b2766529d60390da",
   "lastOpenFiles": [
-    "创建链接.md",
-    "docs/README.md",
     "欢迎.md",
     "README.md",
+    "创建链接.md",
+    "docs/README.md",
     "docs"
   ]
 }
