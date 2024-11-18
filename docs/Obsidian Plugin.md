@@ -1,3 +1,5 @@
+插件使用，还要技术过硬
+
 Git
 
 Version History Diff (for Sync and File Recovery Core plugins and Git)
