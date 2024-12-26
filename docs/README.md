@@ -1,5 +1,6 @@
 ---
-title: 知于易（Easy）行于细（Tiny）
+layout:post
+title:知于易（Easy）行于细（Tiny）
 ---
 
 
