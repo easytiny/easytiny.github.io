@@ -1,8 +1,3 @@
----
-layout: post
-title: Blogging Like a Hacker
----
-
 2024年11月18日
 
 [Obsidian Git](Obsidian%20Git.md)
