@@ -1,8 +1,8 @@
 2024年11月18日
 
-[[Obsidian Git]]
+[Obsidian Git](Obsidian%20Git.md)
 
-[[Obsidian Plugin]]
+[Obsidian Plugin](Obsidian%20Plugin.md)
 
 这是首页
 这里是一个新的开始！2024年11月10日
