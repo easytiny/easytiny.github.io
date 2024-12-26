@@ -58,3 +58,10 @@ https://chrischoy.github.io/docs/configuration/
 
 https://github.com/daattali/beautiful-jekyll
 
+#### # 使用 Jekyll 设置 GitHub Pages 站点
+
+https://docs.github.com/zh/pages/setting-up-a-github-pages-site-with-jekyll
+
+#### # [GitHub Metadata](http://jekyll.github.io/github-metadata/)
+
+https://jekyll.github.io/github-metadata/
