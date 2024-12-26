@@ -1,3 +1,8 @@
+---
+title: 知于易（Easy）行于细（Tiny）
+---
+
+
 2024年11月18日
 
 [Obsidian Git](Obsidian%20Git.md)
