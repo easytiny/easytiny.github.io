@@ -1,5 +1,3 @@
-theme: jekyll-theme-minimal
-
 2024年11月18日
 
 [Obsidian Git](Obsidian%20Git.md)
