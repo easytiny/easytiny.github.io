@@ -2,4 +2,4 @@ domain: easytiny.github.io       # if you want to force HTTPS, specify the domai
 url: https://easytiny.github.io  # the base hostname and protocol for your site, e.g. http://example.com
 baseurl: /      # place folder name if the site is served in a subfolder
 title: 知于易行于细
-theme: jekyll-theme-minimal
+# theme: jekyll-theme-minimal
