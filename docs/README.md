@@ -1,8 +1,6 @@
---- 
-
-layout: post 
-title: Blogging Like a Hacker 
-
+---
+layout: post
+title: Blogging Like a Hacker
 ---
 
 2024年11月18日
