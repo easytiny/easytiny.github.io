@@ -48,6 +48,3 @@ git remote add origin https://gitee.com/weidong/easytiny.git
 git push -u origin "master"
 ```
 
-私人令牌：
-easytiny
-f87195b9bd6546dc9713f20c07b4912a
