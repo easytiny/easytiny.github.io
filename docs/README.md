@@ -50,5 +50,11 @@ https://github.com/kometenstaub/obsidian-version-history-diff
 
 obsidian://show-plugin?id=obsidian-version-history-diff
 
+####  [Jekyll’s configuration file](https://jekyllrb.com/docs/configuration/): `_config.yml`
 
+https://chrischoy.github.io/docs/configuration/
+
+#### Build a beautiful and simple website in literally minutes.
+
+https://github.com/daattali/beautiful-jekyll
 
